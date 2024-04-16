@@ -1,0 +1,11 @@
+student:
+  init:
+    enabled: true
+    students:
+      - firstName: John
+        lastName: Doe
+        age: 20
+      - firstName: Alice
+        lastName: Smith
+        age: 22
+
