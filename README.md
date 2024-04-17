@@ -1,6 +1,6 @@
 # StudentRegistration
 <p>
-### Команды: 
+Команды: 
 <li>"show-all" - показать всех студентов</li>
   <p><img src="./images/show-all.png" width="80%"/><p>
 <li>"add-student --firstName name --lastName sername --age 18" - добавить студента</li>
