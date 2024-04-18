@@ -1,6 +1,13 @@
 # StudentRegistration
 <p>
-Команды: 
+<h3>Создание докер-образа</h3>
+  <p>Для создания образа нужно ввести команду "docker build -t myapp ." - где "myapp" имя образа.</p>
+  <p><img src="./images/build.png" width="80%"/><p>
+  <h3>Запуск докер-образа</h3>
+  <p>Для запуска контейнера нужно ввести команду "docker run -it myapp" - где "myapp" имя образа.</p>
+  <p><img src="./images/run.png" width="80%"/><p>
+<p>
+Команды приложения: 
 <li>"show-all" - показать всех студентов</li>
   <p><img src="./images/show-all.png" width="80%"/><p>
 <li>"add-student --firstName name --lastName sername --age 18" - добавить студента</li>
